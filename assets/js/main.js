@@ -62,14 +62,16 @@ let header = $(`
 
 <!--Side Nav Bar -->
 <ul class="sidenav" id="mobile-demo">
+<br>
+<br>
+<br>
+<br>
 <li><a href="index.html">Home</a></li>
-<li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
-<li><a href="research.html">Research</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="skill.html">Skills</a></li>
-<li><a href="index.html">Blog</a></li>
-<li><a href="https://docs.google.com/document/d/1-SX2Pz1rD9D1IS-r5PpCCb1JeihSM_BtnI5Y9uruQGc/edit?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="404.html">Blog</a></li>
+<li><a href="https://drive.google.com/file/d/1dAZPFP4b9XnweWJifLZCkK93BHJx7xua/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
@@ -97,41 +99,59 @@ let footer = $(`
   </div>
   <div class="footer-text">
     <p style="color:#cccccc">"You Should Know Something Abou Everything And Everything About Something !!"</p>
+    </div>
+    <div class="footer-icons">
+      <a href="#" class="twitter sub-footer-icon">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a href="#" class="instagram sub-footer-icon">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="#" class="linkedin sub-footer-icon">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="#" class="git sub-footer-icon">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="#" class="medium sub-footer-icon">
+        <i class="fab fa-medium"></i>
+      </a>
+      <a href="#" class="dribbble sub-footer-icon">
+        <i class="fab fa-dribbble"></i>
+      </a>
+      <a href="#" class="kaggle sub-footer-icon">
+        <i class="fab fa-kaggle" id="kaggle-icon"></i>
+      </a>
+    </div>
+    <div class="footer-email">
+      <a href="#" class="email-icon" style="color:#cccccc;">
+        <i class="fas fa-envelope-open"></i>
+      </a>
+    </div>
+  </div>
+  <div class="footer-right">
+    <h6 style="color:#fff;">Get in Touch</h6>
+    <form>
+      <div class="name">
+        <input type="text" name="name" placeholder="Enter Name" required>
+      </div>
+      <div class="email">
+        <input type="email" name="email" placeholder="Enter Email" required>
+      </div>
+      <div class="msg">
+        <textarea type="text" name="msg" placeholder="Message" required></textarea>
+      </div>
+      <button type="submit">Send</button>
+    </form>
   </div>
   
-</div>
-<div class="footer-right">
-  <h6 style="color:#fff;">Get in Touch</h6>
-  <form>
-    <div class="name">
-      <input type="text" name="name" placeholder="Enter Name" required>
+  <!-- <div class="tt-copy">
+    <div class="container col-sm-6">
+     <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>
     </div>
-    <div class="email">
-      <input type="email" name="email" placeholder="Enter Email" required>
-    </div>
-    <div class="msg">
-      <textarea type="text" name="msg" placeholder="Message" style="height:120px;"  required></textarea>
-    </div>
-    <button type="submit" style="height: 47px;
-    width: 170px;border: 2px solid black;
-    background: #00FECA;
-    color: black;
-    outline: none;
-    font-size: 20px;
-    font-weight: 500;
-    border-radius: 6px;
-    cursor: pointer;
-    transition: all 0.3s ease;" >Send</button>
-  </form>
-</div>
-
-<!-- <div class="tt-copy">
-  <div class="container col-sm-6">
-   <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>
-  </div>
-</div> -->
-
-</footer>`);
+  </div> -->
+  
+  </footer>`);
 let bodyElement = $(`body`);
 bodyElement.prepend(header);
 bodyElement.append(footer);
