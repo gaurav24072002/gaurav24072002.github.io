@@ -31,7 +31,7 @@ function topFunction() {
 let header = $(`
 <nav class="fixed-top black">
 <div class="nav-wrapper">
-    <a href="index.html" class="brand-logo" style = "height: 13px; border-radius: 5px;" ><img src="./logo.jpg"></a>
+    <a href="index.html" class="brand-logo" style = "height: 13px; border-radius: 5px;" ><img src="./logo.jpeg"></a>
     <a href="index.html" data-target="mobile-demo" class="white-text sidenav-trigger"><i
             class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
@@ -95,7 +95,7 @@ let footer = $(`
 <footer class="webintern-footer">
 <div class="footer-left">
   <div class="footer-img">
-    <img src="./logo2.jpg" alt="User img" style="width:60px;">
+    <img src="./logo2.jpeg" alt="User img" style="width:60px;">
   </div>
   <div class="footer-text">
     <p style="color:#cccccc">"You Should Know Something Abou Everything And Everything About Something !!"</p>
