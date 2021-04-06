@@ -39,7 +39,7 @@ let header = $(`
         <li><a class="white-text" href="projects.html">Projects</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" href="skill.html">Skills</a></li>
-        <li><a class="white-text" href="404.html">Blog</a></li>
+        <li><a class="white-text" href="https://blogger-mania.herokuapp.com/">Blog</a></li>
         <li><a class="white-text" href="https://drive.google.com/file/d/1dAZPFP4b9XnweWJifLZCkK93BHJx7xua/view?usp=sharing" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
