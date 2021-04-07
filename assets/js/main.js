@@ -70,19 +70,19 @@ let header = $(`
 <li><a href="projects.html">Projects</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="skill.html">Skills</a></li>
-<li><a href="404.html">Blog</a></li>
+<li><a href="https://blogger-mania.herokuapp.com/">Blog</a></li>
 <li><a href="https://drive.google.com/file/d/1dAZPFP4b9XnweWJifLZCkK93BHJx7xua/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
-        <label for="switch-2" class="theme-switch">
-        <input class="toggle-checkbox" type="checkbox" id="switch-2" name="theme" />
+        <label for="switch-1" class="theme-switch">
+        <input class="toggle-checkbox" type="checkbox" id="switch-1" name="theme" />
           <div class='toggle-slot'>
           <div class='sun-icon-wrapper'>
           <div class="iconify sun-icon" data-icon="feather-sun" data-inline="false"> </div>
           </div>
-          <div class='toggle-button-2 toggle-button'></div>
+          <div class='toggle-button-1 toggle-button'></div>
           <div class='moon-icon-wrapper'>
           <div class="iconify moon-icon" data-icon="feather-moon" data-inline="false"> </div>
           </div>
