@@ -34,7 +34,7 @@ const projects = [
   },
   {
     title: "Form_Wave_Animation",
-    cardImage: "assets/images/project-page/code1.jpg",
+    cardImage: "assets/images/project-page/Form_wave_animation.PNG",
     description:
       "A Form Wave Animation App Built using HTML, CSS , JavaScript",
     tag:
@@ -94,13 +94,113 @@ const projects = [
   },
   {
     title: "Random Jokes",
-    cardImage: "assets/images/project-page/code1.jpg",
+    cardImage: "assets/images/project-page/Random_jokes.PNG",
     description:
       "A Random Jokes using HTML, CSS , JavaScript",
     tag:
       "JavaScript",
     Previewlink: "",
     Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Random%20Jokes",
+  },
+  {
+    title: "Auto-Text Effect",
+    cardImage: "assets/images/project-page/Auto-text.PNG",
+    description:
+      "Auto Text Effect using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Auto%20Text%20Effect",
+  },
+  {
+    title: "Calculator",
+    cardImage: "assets/images/project-page/calculator.PNG",
+    description:
+      "Calculator using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/calculator",
+  },
+  {
+    title: "Progress Step",
+    cardImage: "assets/images/project-page/progress.PNG",
+    description:
+      "Progress Steps using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Progress%20Steps",
+  },
+  {
+    title: "Rotating Navigation",
+    cardImage: "assets/images/project-page/Rotating_Navigation.PNG",
+    description:
+      "Rotating Navigation using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Rotating%20Navigation",
+  },
+  {
+    title: "Notes App",
+    cardImage: "assets/images/project-page/notes.PNG",
+    description:
+      "Notes App using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Notes%20App",
+  },
+  {
+    title: "Movie App",
+    cardImage: "assets/images/project-page/Movie-app.PNG",
+    description:
+      "Movie App using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript API",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Movie%20App",
+  },
+  {
+    title: "Search Widget",
+    cardImage: "assets/images/project-page/Search.PNG",
+    description:
+      "Movie App using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript API",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Hidden%20Search%20Widget",
+  },
+  {
+    title: "Event Key Code",
+    cardImage: "assets/images/project-page/Key_Code.PNG",
+    description:
+      "Movie App using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript API",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/EventKeyCode",
+  },
+  {
+    title: "Blurry Loading Interface",
+    cardImage: "assets/images/project-page/Blurry_Loading.PNG",
+    description:
+      "Movie App using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript API",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Blurry%20Loading",
+  },
+  {
+    title: "Scroll Animation",
+    cardImage: "assets/images/project-page/Scroll_Animation.PNG",
+    description:
+      "Movie App using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript API",
+    Previewlink: "",
+    Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Scroll%20Animation",
   },
   
 ];
