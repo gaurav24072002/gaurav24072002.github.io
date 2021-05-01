@@ -212,6 +212,16 @@ const projects = [
     Previewlink: "https://github.com/gaurav24072002/Covid19-Stat/blob/master/index.html",
     Githublink: "https://github.com/gaurav24072002/Covid19-Stat",
   },
+  {
+    title: "Blogger Mania",
+    cardImage: "assets/images/project-page/Covid-19.jpg",
+    description:
+      "My Blogs Site",
+    tag:
+      "",
+    Previewlink: "https://blogger-mania.herokuapp.com/",
+    Githublink: "",
+  },
   
 ];
 
