@@ -202,6 +202,16 @@ const projects = [
     Previewlink: "",
     Githublink: "https://github.com/gaurav24072002/JavaScript-Projects/tree/master/Scroll%20Animation",
   },
+  {
+    title: "Covid-19 Status",
+    cardImage: "assets/images/project-page/Covid-19.jpg",
+    description:
+      "Covid-19 Status using HTML, CSS , JavaScript",
+    tag:
+      "JavaScript API",
+    Previewlink: "https://github.com/gaurav24072002/Covid19-Stat/blob/master/index.html",
+    Githublink: "https://github.com/gaurav24072002/Covid19-Stat",
+  },
   
 ];
 
