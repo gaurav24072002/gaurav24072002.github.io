@@ -40,7 +40,7 @@ let header = $(`
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" href="skill.html">Skills</a></li>
         <li><a class="white-text" href="https://blogger-mania.herokuapp.com/">Blog</a></li>
-        <li><a class="white-text" href="https://drive.google.com/file/d/1IeVflf_nrtB_azB5scM_GlH750SXASt3/view?usp=sharing" target="_blank">My Resume</a></li>
+        <li><a class="white-text" href="https://drive.google.com/file/d/1oluXn9n6AFkrzcqvalC5DON6o_PUfxAq/view?usp=sharing" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
           <label for="switch-1" class="theme-switch">
@@ -71,7 +71,7 @@ let header = $(`
 <li><a href="education.html">Education</a></li>
 <li><a href="skill.html">Skills</a></li>
 <li><a href="https://blogger-mania.herokuapp.com/">Blog</a></li>
-<li><a href="https://drive.google.com/file/d/1IeVflf_nrtB_azB5scM_GlH750SXASt3/view?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1oluXn9n6AFkrzcqvalC5DON6o_PUfxAq/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
