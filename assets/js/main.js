@@ -114,13 +114,10 @@ let footer = $(`
         <i class="fab fa-github"></i>
       </a>
       <a href="#" class="medium sub-footer-icon">
-        <i class="fab fa-medium"></i>
-      </a>
-      <a href="#" class="dribbble sub-footer-icon">
-        <i class="fab fa-dribbble"></i>
+        <i class="fab fa-blogger"></i>
       </a>
       <a href="#" class="kaggle sub-footer-icon">
-        <i class="fab fa-kaggle" id="kaggle-icon"></i>
+        <i class="fab fa-youtube" id="kaggle-icon"></i>
       </a>
     </div>
     <div class="footer-email">
